@@ -1,0 +1,43 @@
+
+body,
+html {
+  height: 100%;
+}
+
+
+.card {
+  background-color: rgb(216, 232, 239);
+  border-radius: 10px;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center; 
+}
+.center-btn {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  background-image: url("C:\Users\alekh\Downloads\Registration.avif"); 
+  background-size: cover; 
+  background-position: right; 
+  background-repeat: no-repeat; 
+  
+}
+
+.table th {
+  color: white; 
+  background-color: #343a40; 
+}
+
+
+.table td {
+  color: black; 
+}
+h3 {
+  color: white; 
+  text-align: center; 
+}
